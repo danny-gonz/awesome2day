@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/awesome2day/static/css/main.5f361e03.chunk.css",
-    "main.js": "/awesome2day/static/js/main.5680aac8.chunk.js",
-    "main.js.map": "/awesome2day/static/js/main.5680aac8.chunk.js.map",
+    "main.js": "/awesome2day/static/js/main.ef449f9a.chunk.js",
+    "main.js.map": "/awesome2day/static/js/main.ef449f9a.chunk.js.map",
     "runtime-main.js": "/awesome2day/static/js/runtime-main.0e411783.js",
     "runtime-main.js.map": "/awesome2day/static/js/runtime-main.0e411783.js.map",
     "static/js/2.4fa4cdfe.chunk.js": "/awesome2day/static/js/2.4fa4cdfe.chunk.js",
     "static/js/2.4fa4cdfe.chunk.js.map": "/awesome2day/static/js/2.4fa4cdfe.chunk.js.map",
     "index.html": "/awesome2day/index.html",
-    "precache-manifest.93b5a8ad5cb940e97b2a668ea3251ad9.js": "/awesome2day/precache-manifest.93b5a8ad5cb940e97b2a668ea3251ad9.js",
+    "precache-manifest.55a11425ea1d5c9f32bc41c5ba3ef2c9.js": "/awesome2day/precache-manifest.55a11425ea1d5c9f32bc41c5ba3ef2c9.js",
     "service-worker.js": "/awesome2day/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/awesome2day/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.4fa4cdfe.chunk.js.LICENSE.txt": "/awesome2day/static/js/2.4fa4cdfe.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0e411783.js",
     "static/js/2.4fa4cdfe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5680aac8.chunk.js"
+    "static/js/main.ef449f9a.chunk.js"
   ]
 }
