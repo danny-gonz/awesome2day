@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33830e03eeea116d9ca272cd9a51efa2",
+    "revision": "91e822d6f61758d856ee491a0cf9fed4",
     "url": "/awesome2day/index.html"
   },
   {
-    "revision": "83b4e8b21259e6df473c",
+    "revision": "a3e93484b3d8b60d3d66",
     "url": "/awesome2day/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awesome2day/static/js/2.4fa4cdfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83b4e8b21259e6df473c",
-    "url": "/awesome2day/static/js/main.ef449f9a.chunk.js"
+    "revision": "a3e93484b3d8b60d3d66",
+    "url": "/awesome2day/static/js/main.7858974e.chunk.js"
   },
   {
     "revision": "b00232e47ed9f2965e2d",
